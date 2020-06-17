@@ -1,4 +1,4 @@
-# JonLem React.js web application
+<h1 align="center">JonLem React.js web application</h1>
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
