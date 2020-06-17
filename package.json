@@ -1,6 +1,7 @@
 {
   "name": "jonlem-react-app",
   "version": "1.0.0",
+  "description": "The first jonlem's React.js web application for testing and learning.",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
