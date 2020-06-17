@@ -6,4 +6,4 @@
   </a>
 </p>
 
-This is the official repository for the first jonlem's React.js web application developed using pure JavaScript.
+This is the official repository for the first jonlem's React.js web application developed using pure JavaScript. It was developed for testing and learning purposes.
