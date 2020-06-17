@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
+import ReactDOM from 'react-dom';
 import Hello from './Hello';
-import './style.css';
+import './style/app.scss';
 
 class App extends Component {
   constructor() {
@@ -23,4 +23,9 @@ class App extends Component {
   }
 }
 
-render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  (
+    <App />
+  ),
+  document.getElementById('app')
+);
